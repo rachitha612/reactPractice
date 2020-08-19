@@ -4,6 +4,7 @@ function FooterComponent(){
     return(
         <div className = "footer">
             <h3>Footer Component</h3>
+            <button className="btn btn-primary">SAVE</button>
         </div>
     );
 }
